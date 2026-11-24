@@ -1,0 +1,11 @@
+{
+  "name": "psr-mintrl",
+  "version": "1.0.0",
+  "description": "Probabilistic Sharpe Ratio and Minimum Track Record Length per trade (Bailey & López de Prado, 2012)",
+  "main": "psr-mintrl.js",
+  "files": ["psr-mintrl.js"],
+  "scripts": { "test": "node --test test/*.test.js" },
+  "keywords": ["sharpe ratio", "probabilistic sharpe ratio", "backtest", "trading", "statistics"],
+  "license": "MIT",
+  "homepage": "https://quantinvest.co/tools/psr-calculator/"
+}
